@@ -1,0 +1,15 @@
+Link para download do GIT
+https://git-scm.com/downloads
+
+Comando principais:
+git init - iniciar o git
+git add - iniciar o versionamento
+git commit - criar um commit
+git clone - clonar um código do github para usar na máquina
+git config
+git push
+git status
+
+mkdir - criar pasta
+cd - entrar na pasta ou arquivo
+cd .. - voltar uma pasta
