@@ -1,0 +1,9 @@
+Tracked - O Git conhece os arquivos
+Untracked - Arquivos nos quais o Git não tem ciência
+
+*O comando "Git status" mostra a posição do arquivo (unmodified, modified ou staged)
+
+1-Toda vez que alteramos um arquivo ele se torna untracked para o Git, necessitando
+de uma atualização através do comando GIT ADD *
+2-Dessa forma o arquivo se torna Staged e pode ser commitado para o github
+(git commit -m "mensagem")

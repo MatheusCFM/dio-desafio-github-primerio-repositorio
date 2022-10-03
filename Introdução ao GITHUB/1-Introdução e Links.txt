@@ -13,3 +13,5 @@ git status
 mkdir - criar pasta
 cd - entrar na pasta ou arquivo
 cd .. - voltar uma pasta
+ls - listar as pastas e arquivos
+mv arquivo.md ./pasta/ - mover um arquivo para uma pasta

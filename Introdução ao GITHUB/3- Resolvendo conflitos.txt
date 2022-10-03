@@ -1,0 +1,8 @@
+Resolvendo conflitos no GitHub
+
+1- Duas pessoas modificam um arquivo após clonar para a máquina pessoal.
+2- No retorno do arquivo haverá um conflito de incompatibilidade.
+3- O arquivo pode ser clonado e as soluções são aconselhadas dentro do
+próprio arquivo.
+4- Após as devidas alterações, basta atualizar (gitt add) e enviar o 
+arquivo (git commit) ao GitHub
