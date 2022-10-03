@@ -4,7 +4,7 @@ https://git-scm.com/downloads
 Comando principais:
 git init - iniciar o git
 git add - iniciar o versionamento
-git commit - criar um commit
+git commit -m - criar um commit
 git clone - clonar um código do github para usar na máquina
 git config
 git push
