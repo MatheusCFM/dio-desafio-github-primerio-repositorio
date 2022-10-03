@@ -1,13 +1,13 @@
 Link para download do GIT
 https://git-scm.com/downloads
 
-Comando principais:
+Comandos principais:
 git init - iniciar o git
 git add - iniciar o versionamento
 git commit -m - criar um commit
 git clone - clonar um código do github para usar na máquina
 git config
-git push
+git push origin main - Enviar o arquivo atualizado para o GitHub
 git status
 
 mkdir - criar pasta
